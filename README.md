@@ -6,4 +6,6 @@ The AUC scores achieved were:
 
 [`final_code.ipynb`] - Contains the code for anaylsis of data, feature engineering and the model which gave the best private AUC score.
 
-[`other_stuff.ipynb`] - Contains all the other stuff I tried for other submissions.
+[`other_stuff.ipynb`] - Contains all the other stuff I tried for other submissions. This includes
+- A xgboost + lgbm + catboost ensemble
+- An ensemble of various xgboost models with different randomness.
